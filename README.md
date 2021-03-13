@@ -1,6 +1,6 @@
 # Infinity Stones Farming
 
-https://infinity.finance. Feel free to read the code. More details coming soon.
+https://xxx.finance. Feel free to read the code. More details coming soon.
 
 ## Deployed Contracts / Hash
 
