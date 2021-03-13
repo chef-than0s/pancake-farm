@@ -5,7 +5,7 @@ import '@pancakeswap/pancake-swap-lib/contracts/token/BEP20/IBEP20.sol';
 import '@pancakeswap/pancake-swap-lib/contracts/token/BEP20/SafeBEP20.sol';
 import '@pancakeswap/pancake-swap-lib/contracts/access/Ownable.sol';
 
-import "./CakeToken.sol";
+import "./InfinityToken.sol";
 import "./SyrupBar.sol";
 
 // import "@nomiclabs/buidler/console.sol";
